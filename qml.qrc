@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>progressBarTimes.js</file>
+        <file>ChannelListComponent.qml</file>
+        <file>ToolBarComponent.qml</file>
+        <file>VideoPlayerComponent.qml</file>
+        <file>channels.xml</file>
+        <file>emptyScreen.qml</file>
+        <file>back-icon.png</file>
+        <file>search-icon.png</file>
+    </qresource>
+</RCC>
